@@ -4,9 +4,9 @@ CMSI 486
 Homework 1
 Prof. Johnson
 
-CHAPTER 1)
-Ch 1, #13: 
-	Less complex and generally smaller data would be managed best through traditional file processing. This is because smaller programs, operations and applications do not need the intricacies that DBMS offers, such as the access to a multitude of diverse databases through definitions. Using the database approach for smaller data would not benefit nor hinder it, but would rather be a waste of time and resources such as hardware, software, and data security/recover when creating, sorting and managing data sets. Data files that are not expected to change due to program data-independence should be managed under file processing. Examples such as Embedded Systems with limited storage capacity and programs written in C++ using struct and class declarations, where they are only accessing a specific database, would be managed better under file processing to eliminate any extra costs and time. (Elmasri 9, 26)
+##### CHAPTER 1)
+	Ch 1, #13: 
+		Less complex and generally smaller data would be managed best through traditional file processing. This is because smaller programs, operations and applications do not need the intricacies that DBMS offers, such as the access to a multitude of diverse databases through definitions. Using the database approach for smaller data would not benefit nor hinder it, but would rather be a waste of time and resources such as hardware, software, and data security/recover when creating, sorting and managing data sets. Data files that are not expected to change due to program data-independence should be managed under file processing. Examples such as Embedded Systems with limited storage capacity and programs written in C++ using struct and class declarations, where they are only accessing a specific database, would be managed better under file processing to eliminate any extra costs and time. (Elmasri 9, 26)
 Ch 1, #14: 
 a) The columns that would need to be updated would be Major, Department, Course_Number, Prerequisite_Number, since they include the characters ‘CS’.
 
