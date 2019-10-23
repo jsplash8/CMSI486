@@ -4,7 +4,7 @@
 
 ### Ch 9, #3: Try to map the relational schema in Figure 6.14 [page 189] into an ER schema. This is part of a process known as reverse engineering, in which a conceptual schema is created for an existing implemented database. State any assumptions you make.
 
-![ER](IMG_8045.png)
+![ER](image/IMG_8045.jpg)
 
  
 ### Ch 9, #7: Is it possible to successfully map a binary M:N relationship type without requiring a new relation? Why or why not?
