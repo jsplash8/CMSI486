@@ -1,0 +1,20 @@
+﻿
+
+Palmly Database Project
+Detailed Design Document Feedback
+====================================
+
+Section 2.1 - covered: ✓
+Section 2.2 - covered: ✓
+Section 2.3 - covered: ✓
+
+Nice work here.
+
+In section 2.3, what is th extra crows foot that is hanging off the right
+side of the diagram?  That seems a bit weird and should have been cleaned
+up before submission....
+
+Overall, very nice work!
+
+you have 10% out of 10% which is 100% on this deliverable for an A-plus
+
